@@ -80,8 +80,9 @@ This dashboard provides a quick overview of workforce dynamics and key retention
 
 ## 📁 Project Structure
 
-HR Dataset.xlsx
-├── Raw data
-├── Hr Transfered data
-├── Analysis
-└── Dashboard
+📦 HR-Employee-Attrition-Analysis  
+┣ 📄 HR Dataset.xlsx  
+┣ 📊 Dashboard  
+┣ 📈 Analysis  
+┗ 📜 README.md
+
