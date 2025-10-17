@@ -68,6 +68,8 @@ This dashboard provides a quick overview of workforce dynamics and key retention
 | Visualization | Excel Dashboard with Slicers | Present insights interactively |
 | Tools | Microsoft Excel | End-to-end analysis |
 
+<img src="https://github.com/Azimuddin00/HR-Employee-Attrition-Analysis-Excel-Project-/blob/main/Dashboard.png" width="700">
+
 ---
 
 ## 💡 Key Insights
