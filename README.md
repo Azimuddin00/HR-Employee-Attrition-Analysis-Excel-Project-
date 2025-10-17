@@ -79,3 +79,9 @@ This dashboard provides a quick overview of workforce dynamics and key retention
 ---
 
 ## 📁 Project Structure
+
+HR Dataset.xlsx
+├── Raw data
+├── Hr Transfered data
+├── Analysis
+└── Dashboard
