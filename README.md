@@ -18,6 +18,8 @@ It identifies whether employees are still with the company or have left, allowin
 | `Analysis` | Aggregated data showing attrition metrics and departmental summaries. |
 | `Dashboard` | Interactive Excel dashboard with visual insights and slicers. |
 
+<img src="https://github.com/Azimuddin00/HR-Employee-Attrition-Analysis-Excel-Project-/blob/main/Raw%20Data.png" width="700">
+
 ---
 
 ## 🧹 Data Cleaning & Preparation
@@ -32,6 +34,7 @@ Performed extensive cleaning and transformation to prepare the dataset for analy
    - `Working Year Group` — groups employees by experience range  
 4. **Applied conditional formatting** to highlight key patterns visually.
 
+<img src="https://github.com/Azimuddin00/HR-Employee-Attrition-Analysis-Excel-Project-/blob/main/Filtered%20Data.png" width="700">
 ---
 
 ## 📊 Data Analysis
@@ -45,6 +48,8 @@ Formulas and tools used:
 - `COUNTIF`, `AVERAGEIFS`, `IF`, and `VLOOKUP` for metrics  
 - **Pivot Tables** for grouped summaries  
 - **Charts & Slicers** for interactivity  
+
+<img src="https://github.com/Azimuddin00/HR-Employee-Attrition-Analysis-Excel-Project-/blob/main/Track%20Analysis.png" width="700">
 
 ---
 
